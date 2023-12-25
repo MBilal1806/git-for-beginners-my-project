@@ -1,5 +1,4 @@
 Welcome to MyProject
 
-Author: Bilal
-Twitter : Bilal
-LastName : Bilal
+Author: Muhammad Bilal
+Twitter: Bilal
